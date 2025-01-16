@@ -1,3 +1,5 @@
 # H1 Header
 
-I add a H1 header in the README file.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+I add a H1 header and an image in the index.md file.

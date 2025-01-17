@@ -6,5 +6,9 @@
 var myVar = "Hello, world!";
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 I add a H1 header, a code example and an image in the index.md file.
 
